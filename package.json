@@ -2,10 +2,10 @@
   "name": "psql",
   "version": "1.0.0",
   "description": "",
-  "main": "carwork.js",
+  "main": "psqwork.js",
   "scripts": {
     "test": "echo\"Error:notestspecified\"&&exit1",
-    "start": "node carwork.js"
+    "start": "node psqwork.js"
   },
   "author": "",
   "license": "ISC",
