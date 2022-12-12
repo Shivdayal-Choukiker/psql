@@ -1,0 +1,16 @@
+{
+  "name": "psql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carwork.js",
+  "scripts": {
+    "test": "echo\"Error:notestspecified\"&&exit1",
+    "start": "node carwork.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
